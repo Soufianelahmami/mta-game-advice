@@ -34,7 +34,7 @@
         {
             "image_link": "https://iili.io/JJkOjdG.webp",
             "title": "mta game advice 4",
-            "text_Content_": Coordination with your team can make all the difference in MTA. Whether you're engaging in intense shootouts or elaborate heists, clear communication is vital. Invest in a good quality headset or microphone and use in-game chat or voice communication tools like Discord to stay in touch with your team"
+            "text_Content_":" Coordination with your team can make all the difference in MTA. Whether you're engaging in intense shootouts or elaborate heists, clear communication is vital. Invest in a good quality headset or microphone and use in-game chat or voice communication tools like Discord to stay in touch with your team"
         },
         {
             "image_link": "https://iili.io/JJkOXgs.webp",
